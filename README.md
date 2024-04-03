@@ -6,7 +6,6 @@ I'm Janvi Bhalala, a passionate Frontend Developer based in Binghamton, NY. With
 
 - 🎓 Master of Science in Computer Science from Binghamton University
 - 💻 Proficient in React.js, HTML, CSS, and JavaScript
-- 🌱 Currently exploring TypeScript to enhance my frontend development skills
 - 📚 Always learning and staying updated with the latest trends in web development
 
 ## What I Do
