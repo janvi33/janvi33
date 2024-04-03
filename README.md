@@ -17,7 +17,7 @@ I'm Janvi Bhalala, a passionate Frontend Developer based in Binghamton, NY. With
 
 ## Let's Connect!
 
-If you're looking for a frontend developer who is passionate about crafting beautiful and intuitive web interfaces, let's connect! You can reach out to me via [email](mailto:Jbhalal1@binghamton.edu) or connect with me on [LinkedIn](linkedin.com/in/janvibhalala). I'm excited to collaborate on exciting projects and contribute to the success of your team! 🚀
+If you're looking for a frontend developer who is passionate about crafting beautiful and intuitive web interfaces, let's connect! You can reach out to me via [email](mailto:Jbhalal1@binghamton.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/janvibhalala/). I'm excited to collaborate on exciting projects and contribute to the success of your team! 🚀
 
 
 <!--
