@@ -6,7 +6,7 @@
 ## About Me
 
 - 🎓 Master of Science in Computer Science from Binghamton University
-- 💻 Proficient in React.js, HTML, CSS, and JavaScript
+- 💻 Proficient in Python, React.js, HTML, CSS, and JavaScript
 - 📚 Always learning and staying updated with the latest trends in web development
 
 ## What I Do
