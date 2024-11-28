@@ -23,19 +23,4 @@ If you're looking for a versatile professional skilled in **data analysis** and 
 
 ## Languages and Tools
 
-<img src="https://img.shields.io/badge/-SQL-lightblue?logo=postgresql&logoColor=white" alt="SQL" height="30"/> 
-<img src="https://img.shields.io/badge/-Python-royalblue?logo=python&logoColor=white" alt="Python" height="30"/> 
-<img src="https://img.shields.io/badge/-Power%20BI-yellow?logo=powerbi&logoColor=white" alt="Power BI" height="30"/> 
-<img src="https://img.shields.io/badge/-Tableau-blueviolet?logo=tableau&logoColor=white" alt="Tableau" height="30"/> 
-<img src="https://img.shields.io/badge/-AWS-orange?logo=amazonaws&logoColor=white" alt="AWS" height="30"/> 
-<img src="https://img.shields.io/badge/-Spark-red?logo=apache-spark&logoColor=white" alt="Spark" height="30"/> 
-<img src="https://img.shields.io/badge/-React-blue?logo=react&logoColor=white" alt="React" height="30"/> 
-<img src="https://img.shields.io/badge/-Pandas-gray?logo=pandas&logoColor=white" alt="Pandas" height="30"/>
-<img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white" alt="HTML5" height="30"/> 
-<img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white" alt="CSS3" height="30"/> 
-<img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white" alt="JavaScript" height="30"/> 
-<img src="https://img.shields.io/badge/-MongoDB-mediumseagreen?logo=mongodb&logoColor=white" alt="MongoDB" height="30"/> 
-<img src="https://img.shields.io/badge/-MySQL-dodgerblue?logo=mysql&logoColor=white" alt="MySQL" height="30"/> 
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-sandybrown?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30"/> 
-<img src="https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white" alt="Docker" height="30"/> 
-<img src="https://img.shields.io/badge/-Material--UI-lightcoral?logo=material-ui&logoColor=white" alt="Material-UI" height="30"/> 
+<img src="https://img.shields.io/badge/-SQL-lightblue?logo=postgresql&logoColor=white" alt="SQL" height="30"/> <img src="https://img.shields.io/badge/-Python-royalblue?logo=python&logoColor=white" alt="Python" height="30"/> <img src="https://img.shields.io/badge/-Power%20BI-yellow?logo=powerbi&logoColor=white" alt="Power BI" height="30"/> <img src="https://img.shields.io/badge/-Tableau-blueviolet?logo=tableau&logoColor=white" alt="Tableau" height="30"/> <img src="https://img.shields.io/badge/-AWS-orange?logo=amazonaws&logoColor=white" alt="AWS" height="30"/> <img src="https://img.shields.io/badge/-Spark-red?logo=apache-spark&logoColor=white" alt="Spark" height="30"/> <img src="https://img.shields.io/badge/-React-blue?logo=react&logoColor=white" alt="React" height="30"/> <img src="https://img.shields.io/badge/-Pandas-gray?logo=pandas&logoColor=white" alt="Pandas" height="30"/><img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white" alt="HTML5" height="30"/> <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white" alt="CSS3" height="30"/> <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white" alt="JavaScript" height="30"/> <img src="https://img.shields.io/badge/-MongoDB-mediumseagreen?logo=mongodb&logoColor=white" alt="MongoDB" height="30"/> <img src="https://img.shields.io/badge/-MySQL-dodgerblue?logo=mysql&logoColor=white" alt="MySQL" height="30"/> <img src="https://img.shields.io/badge/-Tailwind%20CSS-sandybrown?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30"/> <img src="https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white" alt="Docker" height="30"/> <img src="https://img.shields.io/badge/-Material--UI-lightcoral?logo=material-ui&logoColor=white" alt="Material-UI" height="30"/> 
