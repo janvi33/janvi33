@@ -1,6 +1,6 @@
 # <p align="center"><b style="font-size:32px;">Hi there! I'm Janvi Bhalala 👋</b></p>
 
-<p align="center">A passionate Data Analyst and Frontend Developer based in Binghamton, NY. With a strong foundation in Computer Science and a Master's degree from Binghamton University, I combine my skills in data analysis and web development to drive impactful solutions. Whether it's uncovering actionable insights from data or crafting user-friendly web experiences, I thrive on solving complex problems with innovative approaches.</p>
+<p align="center">A passionate Data Analyst with a strong foundation in Computer Science and a Master’s degree from Binghamton University. I leverage my expertise in data analysis to drive impactful solutions, uncover actionable insights, and optimize business strategies through analytics. I thrive on solving complex problems with innovative approaches.</p>
 
 ## About Me
 
