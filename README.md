@@ -33,14 +33,6 @@ modernized legacy apps, and delivered seamless digital experiences that drive re
 
 ---
 
-## 🤝 Let’s Connect  
-
-I love collaborating on innovative projects and helping teams deliver impactful mobile solutions.  
-
-📧 [Email](mailto:Jbhalal1@binghamton.edu) | 💼 [LinkedIn](https://www.linkedin.com/in/janvibhalala/)  
-
----
-
 ## 🧰 Languages & Tools  
 
 <img src="https://img.shields.io/badge/-Kotlin-purple?logo=kotlin&logoColor=white" height="30"/> 
