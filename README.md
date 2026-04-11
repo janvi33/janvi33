@@ -15,7 +15,6 @@ modernized legacy apps, and delivered seamless digital experiences that drive re
 ## 👩‍💻 About Me  
 
 - 📱 11+ years in mobile engineering with expertise in **Android (Kotlin, Jetpack Compose, Coroutines/Flow)** and **cross-platform (React Native, Flutter)**  
-- 🏦 Industry background across **Banking (Regions Bank)**, **Retail (American Eagle)**, **Airlines (Air Canada)**, **Social Commerce (Poshmark)**, **Media (Fox, Twitter/X)**  
 - ☁️ Full-stack mindset with **GraphQL, REST, Node.js, Spring Boot, AWS, Firebase**  
 - 🔒 Specialist in **security for financial apps** – biometrics, SSL pinning, encryption & compliance  
 - 👥 Proven leadership in **mentoring engineers, setting coding standards, and driving CI/CD adoption**  
